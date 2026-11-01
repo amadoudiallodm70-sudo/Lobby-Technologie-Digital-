@@ -1,0 +1,6 @@
+{
+  "name": "LOBBY TECHNOLOGIE DIGITAL",
+  "description": "Plateforme professionnelle de formations numériques, laboratoire d'intelligence artificielle et boutique de produits digitaux avec paiements Orange Money et PayCard en Guinée.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
